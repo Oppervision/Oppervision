@@ -1,6 +1,6 @@
 # 👋 Bem-vindo à Oppervision!
 
-**Oppervision** é uma empresa especializada em soluções de **monitoramento de sistemas**. Nossa missão é ajudar empresas a manterem suas aplicações e infraestrutura seguras, escaláveis e sempre disponíveis.
+**Oppervision** é uma empresa especializada em soluções de **monitoramento de softwares**. Nossa missão é ajudar empresas a manterem suas aplicações e infraestrutura seguras, escaláveis e sempre disponíveis.
 
 ---
 
