@@ -6,8 +6,7 @@
 
 ## 👀 Nossos Serviços
 - **Monitoramento de Sistemas e Infraestrutura**: Implementamos soluções para monitoramento de serviços críticos, detecção de falhas e alertas automáticos, garantindo alta disponibilidade.
-- **Desenvolvimento de APIs Backend**: Projetamos e implementamos APIs robustas e escaláveis para atender às necessidades dos nossos clientes.
-- **Otimização de Performance**: Auxiliamos na otimização de infraestrutura para melhor performance e menor custo, alinhado às metas de cada negócio.
+- **Automação**: Projetamos e implementamos automações robustas e escaláveis para atender às necessidades dos nossos clientes.
 
 ---
 
@@ -18,11 +17,11 @@
 - **Infraestrutura e Contêineres**: Docker, Kubernetes, Podman
 - **Cloud**: AWS, Google Cloud Platform (GCP), Azure, DigitalOcean
 
----
+<!-- --- -->
 
-## 📈 Nossos Projetos em Destaque
-- [API de Catálogo de Livros](link do repositório): Uma API em Java usando Spring Boot e H2 para um sistema de catálogo de livros com monitoramento e alertas.
-- [Monitoramento de Sistema com Grafana e Prometheus](link do repositório): Um projeto para demonstrar como integrar Grafana e Prometheus para monitoramento de sistemas.
+<!-- ## 📈 Nossos Projetos em Destaque -->
+<!-- - [API de Catálogo de Livros](link do repositório): Uma API em Java usando Spring Boot e H2 para um sistema de catálogo de livros com monitoramento e alertas. -->
+<!-- - [Monitoramento de Sistema com Grafana e Prometheus](link do repositório): Um projeto para demonstrar como integrar Grafana e Prometheus para monitoramento de sistemas. -->
 
 ---
 
