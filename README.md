@@ -13,10 +13,10 @@
 
 ## 🌱 Tecnologias e Ferramentas que Usamos
 - **Linguagens**: Golang, Java, Python, Bash
-- **Monitoramento**: Grafana, Prometheus, Zabbix, Datadog
-- **Banco de Dados**: PostgreSQL, MySQL, H2
-- **Infraestrutura e Contêineres**: Docker, Kubernetes
-- **Cloud**: AWS, Google Cloud Platform (GCP)
+- **Monitoramento**: Grafana, Prometheus, Zabbix, Datadog, Opensearch, Nagios
+- **Banco de Dados**: PostgreSQL, MySQL, MongoDB
+- **Infraestrutura e Contêineres**: Docker, Kubernetes, Podman
+- **Cloud**: AWS, Google Cloud Platform (GCP), Azure, DigitalOcean
 
 ---
 
@@ -32,9 +32,9 @@ Estamos sempre abertos a novas colaborações! Se você precisa de ajuda com mon
 ---
 
 ## 📫 Como Entrar em Contato
-- **Email**: oppervision.consulting@gmail.com
-- **LinkedIn**: [Perfil da Oppervision no LinkedIn](link para o perfil)
-- **Portfólio**: [Site da Oppervision (GitHub Pages ou Google Sites)](link para o site)
+- **Email**: enzo.trevisan@oppervision.com.br
+- **Nossa Pagina**: [Link para a pagina](https://www.oppervision.com.br/)
+- **LinkedIn**: [Perfil da Oppervision no LinkedIn]([link para o perfil](https://www.linkedin.com/company/oppervision/about/?viewAsMember=true))
 
 ---
 
